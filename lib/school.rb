@@ -1,6 +1,4 @@
 class School
-  def school_name=(school_name)
-      school = School.new("Bayside High School")
-
-end
+attr_accessor :name, :grade
+ end def School
 end
