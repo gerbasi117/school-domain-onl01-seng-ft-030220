@@ -1,5 +1,4 @@
 class School
-def roster
-  roster = []
-end
+def school_name
+  end
 end
