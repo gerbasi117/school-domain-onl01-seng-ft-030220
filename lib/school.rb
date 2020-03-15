@@ -1,2 +1,2 @@
-class school
+class School
 end
