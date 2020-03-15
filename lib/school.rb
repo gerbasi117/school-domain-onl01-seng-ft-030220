@@ -1,4 +1,5 @@
 class School
 def school_name
-  end
+ school = School.new("Bayside High School")
+ end
 end
